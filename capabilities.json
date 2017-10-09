@@ -1,0 +1,8 @@
+{
+  "desiredCapabilities": {
+  "browserName": "chrome",
+  "javascriptEnabled": true,
+  "cssSelectorsEnabled": true,
+  "fixSessionCapabilities": false
+  }
+}

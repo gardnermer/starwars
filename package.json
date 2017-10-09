@@ -1,0 +1,16 @@
+{
+  "name": "star_wars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Meredith Gardner",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "leadfoot": "^1.7.4",
+    "mocha": "^4.0.1"
+  }
+}
